@@ -7,7 +7,7 @@ module OmniAuth
       option :name, 'nettoken'
 
       option :client_options, {
-        :site => "http://www.nettoken-dev.com",
+        :site => "http://demo.nettoken.co.uk/",
         :authorize_url => "/oauth/authorize"
       }
 
